@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Full stack development<br>I'm currently working on freelance projects.<br>I'm looking to collaborate to open-source projects.
+🌱I'm currently learning Full stack development<br>🔭I'm currently working on freelance projects.<br>👯I'm looking to collaborate to open-source projects.
 
 
 ## 🌐 Socials:
